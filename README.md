@@ -21,17 +21,19 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+I created a user friendly way for the user to select the default values for the amount they'd tip.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough:
 
-<img src='https://imgur.com/YR4nnVB' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/YR4nnVB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+challenges faced:
+It was a struggle to get a hold of the syntax because I've never made an app, but I know I'll be improving each time. 
 
 ## Credits
 
